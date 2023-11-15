@@ -1,6 +1,5 @@
 package com.example.SpringTest.Service;
 
-import com.example.SpringTest.Controller.StudentController;
 import com.example.SpringTest.Model.Student;
 import com.example.SpringTest.Repositery.StudentRepo;
 import org.springframework.beans.factory.annotation.Autowired;
